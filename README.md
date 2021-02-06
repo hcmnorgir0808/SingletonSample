@@ -1,0 +1,2 @@
+# SingletonSample
+ singleton sample
